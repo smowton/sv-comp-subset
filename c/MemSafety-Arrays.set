@@ -1,0 +1,6 @@
+../sv-benchmarks/c/array-memsafety/cstrpbrk_unsafe.yml
+../sv-benchmarks/c/array-memsafety/openbsd_cstrncpy-alloca-2.yml
+../sv-benchmarks/c/array-examples/sanfoundry_27_ground.yml
+../sv-benchmarks/c/array-examples/standard_copy8_ground-1.yml
+../sv-benchmarks/c/array-examples/standard_init8_ground-1.yml
+../sv-benchmarks/c/array-examples/standard_two_index_01.yml

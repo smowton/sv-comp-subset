@@ -1,0 +1,8 @@
+../sv-benchmarks/c/loops/matrix-1.yml
+../sv-benchmarks/c/loops/terminator_03-2.yml
+../sv-benchmarks/c/loop-acceleration/array3.yml
+../sv-benchmarks/c/loop-acceleration/simple_4-2.yml
+../sv-benchmarks/c/loop-invgen/heapsort.yml
+../sv-benchmarks/c/loop-lit/gcnr2008.yml
+../sv-benchmarks/c/loop-new/nested-1.yml
+../sv-benchmarks/c/loops-crafted-1/nested3-1.yml

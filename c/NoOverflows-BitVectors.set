@@ -1,0 +1,12 @@
+../sv-benchmarks/c/termination-crafted/Ackermann-1.yml
+../sv-benchmarks/c/termination-crafted/Copenhagen.yml
+../sv-benchmarks/c/termination-crafted/Mysore-1.yml
+../sv-benchmarks/c/termination-crafted/Nyala-2lex-2.yml
+../sv-benchmarks/c/termination-crafted/Thun-2.yml
+../sv-benchmarks/c/termination-crafted-lit/AliasDarteFeautrierGonnord-SAS2010-random1d-1.yml
+../sv-benchmarks/c/termination-crafted-lit/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron4.yml
+../sv-benchmarks/c/termination-crafted-lit/ChenFlurMukhopadhyay-SAS2012-Ex2.14.yml
+../sv-benchmarks/c/termination-crafted-lit/CookSeeZuleger-TACAS2013-Fig8a-modified.yml
+../sv-benchmarks/c/termination-crafted-lit/HeizmannHoenickeLeikePodelski-ATVA2013-Fig8.yml
+../sv-benchmarks/c/termination-crafted-lit/NoriSharma-FSE2013-Fig7.yml
+../sv-benchmarks/c/termination-numeric/EvenOdd01-2.yml

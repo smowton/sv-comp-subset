@@ -1,0 +1,10 @@
+../sv-benchmarks/c/termination-libowfat/strstr.yml
+../sv-benchmarks/c/termination-memory-alloca/b.04-alloca.yml
+../sv-benchmarks/c/termination-memory-alloca/ChenFlurMukhopadhyay-2012SAS-Fig1-alloca.yml
+../sv-benchmarks/c/termination-memory-alloca/genady-alloca.yml
+../sv-benchmarks/c/termination-memory-alloca/openbsd_cstrcat-alloca-1.yml
+../sv-benchmarks/c/termination-memory-alloca/Urban-2013WST-Fig2-alloca.yml
+../sv-benchmarks/c/termination-15/array06_alloca.yml
+../sv-benchmarks/c/termination-15/cstrcmp_malloc.yml
+../sv-benchmarks/c/termination-15/cstrncpy_reverse_alloca.yml
+../sv-benchmarks/c/termination-recursive-malloc/rec_malloc_ex5B.yml

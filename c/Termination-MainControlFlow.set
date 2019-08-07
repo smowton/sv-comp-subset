@@ -1,0 +1,16 @@
+../sv-benchmarks/c/termination-crafted/Binary_Search-1.yml
+../sv-benchmarks/c/termination-crafted/LexIndexValue-Pointer-2.yml
+../sv-benchmarks/c/termination-crafted/NonTermination4.yml
+../sv-benchmarks/c/termination-crafted/Singapore_plus.yml
+../sv-benchmarks/c/termination-crafted-lit/AliasDarteFeautrierGonnord-SAS2010-easy2-1.yml
+../sv-benchmarks/c/termination-crafted-lit/BradleyMannaSipma-CAV2005-Fig1-modified.yml
+../sv-benchmarks/c/termination-crafted-lit/ChenFlurMukhopadhyay-SAS2012-Ex2.04.yml
+../sv-benchmarks/c/termination-crafted-lit/ChenFlurMukhopadhyay-SAS2012-Ex3.07.yml
+../sv-benchmarks/c/termination-crafted-lit/GulwaniJainKoskinen-PLDI2009-Fig1.yml
+../sv-benchmarks/c/termination-crafted-lit/LeikeHeizmann-TACAS2014-Ex8.yml
+../sv-benchmarks/c/termination-crafted-lit/Urban-WST2013-Fig2.yml
+../sv-benchmarks/c/termination-restricted-15/a.04.yml
+../sv-benchmarks/c/termination-restricted-15/b.17.yml
+../sv-benchmarks/c/termination-restricted-15/GCD4.yml
+../sv-benchmarks/c/termination-restricted-15/NO_23.yml
+../sv-benchmarks/c/termination-restricted-15/WhilePart.yml

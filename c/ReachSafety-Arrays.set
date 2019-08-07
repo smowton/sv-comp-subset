@@ -1,0 +1,10 @@
+../sv-benchmarks/c/array-examples/standard_copy3_ground-1.yml
+../sv-benchmarks/c/array-examples/standard_init3_ground-1.yml
+../sv-benchmarks/c/array-examples/standard_running-2.yml
+../sv-benchmarks/c/array-industry-pattern/array_of_struct_loop_dep.yml
+../sv-benchmarks/c/reducercommutativity/max05-2.yml
+../sv-benchmarks/c/reducercommutativity/sep60-2.yml
+../sv-benchmarks/c/array-tiling/pnr5.yml
+../sv-benchmarks/c/array-crafted/bor1.yml
+../sv-benchmarks/c/array-crafted/zero_sum_const1.yml
+../sv-benchmarks/c/array-multidimensional/init-non-constant-3-u.yml

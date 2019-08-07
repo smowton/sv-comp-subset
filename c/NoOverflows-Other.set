@@ -1,0 +1,6 @@
+../sv-benchmarks/c/recursive/recHanoi01.yml
+../sv-benchmarks/c/recursive-simple/fibo_2calls_4-1.yml
+../sv-benchmarks/c/recursive-simple/id_i10_o10-1.yml
+../sv-benchmarks/c/recursive-simple/sum_2x3-2.yml
+../sv-benchmarks/c/bitvector/jain_6-2.yml
+../sv-benchmarks/c/bitvector/soft_float_4-1.c.cil.yml
