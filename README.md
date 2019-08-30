@@ -30,7 +30,7 @@ and dependency setup, aiming to be runnable with little or no preparation on a c
 To benchmark a branch "mybranch" available in repository "https://myserver/myrepo"
 against whatever point in cbmc's develop branch it is based on:
 
-    git clone https://github.com/diffblue/sv-comp-subset.git
+    git clone https://github.com/smowton/sv-comp-subset.git
     cd sv-comp-subset
     ./run-benchmark.sh c https://myserver/myrepo mybranch ~/mybranch-results
 
